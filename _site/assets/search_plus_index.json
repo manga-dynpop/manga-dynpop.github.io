@@ -1,0 +1,16 @@
+{"/pages/data_access/": {
+    "title": "Data Access",
+    "keywords": "Jekyll",
+    "url": "/pages/data_access/",
+    "body": "The MaNGA DynPop catalogs are publicly available on Github, including the stellar dynamical properties and the stellar population properties. The stellar dynamical properties are obtained using the well-established Jeans Anisotropic Modelling (JAM) method (Cappellari 2008,Cappellari 2020). The stellar population properties are obtained from the stellar population synthesis (SPS) models. If you use any of the data below, you are requested to cite the paper in the section where the link to the data is given. Paper I The JAM catalog file SDSSDR17_MaNGA_JAM.fits and the data model file SDSSDR17_MaNGA_JAM_datamodel.pdf can be downloaded from here. The supplementary files including the fitting qualities, MGE models, and the mass profiles will be released soon. Paper II The SPS catalog files can be downloaded from here (will be released soon)."
+  },"/pages/publications/": {
+    "title": "Publications",
+    "keywords": "Jekyll",
+    "url": "/pages/publications/",
+    "body": "We list the publications related to the MaNGA DynPop project below."
+  },"/pages/members/": {
+    "title": "Members",
+    "keywords": "Jekyll",
+    "url": "/pages/members/",
+    "body": "The MaNGA DynPop project has five core members. Kai Zhu (NAOC; kaizhu[at]nao[dot]cas[dot]cn) Shengdong Lu (Tsinghua; lushengdong93[at]icloud[dot]com) Michele Cappellari (Oxford) Ran Li (NAOC) Shude Mao (Tsinghua)"
+  }}

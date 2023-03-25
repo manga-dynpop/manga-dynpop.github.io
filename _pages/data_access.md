@@ -21,7 +21,7 @@ The supplementary files including the fitting qualities, MGE models, and the mas
 ---
 
 ### Paper II
-The SPS catalog files can be downloaded from [here][3] (will be released soon). 
+The SPS catalog files can be downloaded from [here][3] (will be released after the paper is published). 
 
 ---
 

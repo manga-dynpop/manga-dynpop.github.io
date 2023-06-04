@@ -14,7 +14,7 @@ The MaNGA DynPop catalogs are publicly available on [Github][1], including the s
 
 ### Paper I
 
-The JAM catalog file `SDSSDR17_MaNGA_JAM.fits` and the data model file `SDSSDR17_MaNGA_JAM_datamodel.pdf` can be downloaded from [here][2] (will be released after the paper is published).
+The JAM catalog file `SDSSDR17_MaNGA_JAM.fits` and the data model file `SDSSDR17_MaNGA_JAM_datamodel.pdf` can be downloaded from [here][2].
 
 The supplementary files including the fitting qualities, MGE models, and the mass profiles will be released soon.
 

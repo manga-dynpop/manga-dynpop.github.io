@@ -16,18 +16,18 @@ The MaNGA DynPop catalogs are publicly available on [Github][1], including the s
 
 The JAM catalog file `SDSSDR17_MaNGA_JAM.fits` and the data model file `SDSSDR17_MaNGA_JAM_datamodel.pdf` can be downloaded from [here][2].
 
-The supplementary files including the fitting qualities, MGE models, and the mass profiles will be released soon.
+The supplementary files including the MGE models and the mass profiles will be released once prepared.
 
 ---
 
 ### Paper II
-The SPS catalog files can be downloaded from [here][3] (will be released after the paper is published). 
+The SPS catalog file, the data model file, and a Python script can be downloaded from [zenodo][3]. 
 
 ---
 
 
 [1]: https://github.com/manga-dynpop/manga-dynpop.github.io/tree/main/catalogs
 [2]: https://github.com/manga-dynpop/manga-dynpop.github.io/tree/main/catalogs/JAM
-[3]: https://github.com/manga-dynpop/manga-dynpop.github.io/tree/main/catalogs/SPS
+[3]: https://zenodo.org/record/8381999
 [Cappellari2008]: https://ui.adsabs.harvard.edu/abs/2008MNRAS.390...71C/abstract
 [Cappellari2020]: https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4819C/abstract

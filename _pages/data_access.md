@@ -34,7 +34,7 @@ The updated stellar population (SP) and star-formation history (SFH) catalogue (
 
 ### [Paper VII][PaperVII]
 
-All data derived from the stellar dynamical models including 3D mass distributions (mass density profiles), 2D mass distributions (surface mass density maps), and circular velocity curves will be released. One can use the MGE coefficients and best-fitting free parameters taken from the catalogues ([PaperI] and [PaperV]) to derive the mass distributions of stellar, dark matter, and total components. The database and a Python script for the calculation can be downloaded from [zenodo][JAMmass].
+All data derived from the stellar dynamical models including 3D mass distributions (mass density profiles), 2D mass distributions (surface mass density maps), and circular velocity curves will be released. One can use the MGE coefficients and best-fitting free parameters taken from the catalogues ([PaperI] and [PaperV]) to derive the mass distributions of stellar, dark matter, and total components. The database and a Python script for the calculation can be downloaded from [zenodo][JAMmass]. Please also cite [PaperVII] if you use the Pyhton script to calculate the mass distributions.
 
 ---
 
